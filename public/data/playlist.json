@@ -1,34 +1,82 @@
 {
   "playlist": [
     {
-      "title": "Impromptu",
-      "artist": "Chopin",
-      "url": "/songs/chopin-impromptu.mp3",
+      "title": "80s TV Ad",
+      "artist": "jerem",
+      "url": "/songs/80s TV Ad.mp3",
       "id": "2Js5IxpT"
     },
     {
-      "title": "Nocturne n°9",
-      "artist": "Chopin",
-      "url": "/songs/chopin-nocturne-9.mp3",
+      "title": "Asteroid Field",
+      "artist": "jerem",
+      "url": "/songs/Asteroid Field.mp3",
       "id": "THkZle2a"
     },
     {
-      "title": "Prélude No. 2 in G minor",
-      "artist": "Bach",
-      "url": "/songs/bach-g-minor.mp3",
+      "title": "Basketball Emotion",
+      "artist": "jerem",
+      "url": "/songs/Basketball Emotion.mp3",
       "id": "mCvoHmhS"
     },
     {
-      "title": "4 seasons - Winter",
-      "artist": "Vivaldi",
-      "url": "/songs/vivaldi-winter.mp3",
+      "title": "Boss Theme",
+      "artist": "jerem",
+      "url": "/songs/Boss Theme.mp3",
       "id": "ZT8dk2E9"
     },
     {
-      "title": "L'amour est un oiseau rebelle",
-      "artist": "Maria Callas",
-      "url": "/songs/MariaCallas-l'amour-est-un-oiseau-rebelle.mp3",
+      "title": "Conatus Focus Intro",
+      "artist": "jerem",
+      "url": "/songs/Conatus Focus Intro.mp3",
       "id": "jTxYUHQ8"
+    },
+    {
+      "title": "Disco Demo",
+      "artist": "jerem",
+      "url": "/songs/Disco Demo.mp3",
+      "id": "jTxYUHQ9"
+    },
+    {
+      "title": "Ethos",
+      "artist": "jerem",
+      "url": "/songs/Ethos.mp3",
+      "id": "gTxYUHQ8"
+    },
+    {
+      "title": "Government",
+      "artist": "jerem",
+      "url": "/songs/Government.mp3",
+      "id": "jTxEUHQ8"
+    },
+    {
+      "title": "GTA III Theme Remix",
+      "artist": "jerem",
+      "url": "/songs/GTA 3 Theme Remix.mp3",
+      "id": "jTrYUHQ8"
+    },
+    {
+      "title": "Hotel Lobby Theme",
+      "artist": "jerem",
+      "url": "/songs/Hotel Lobby Theme.mp3",
+      "id": "jVcYUHQ8"
+    },
+    {
+      "title": "Jazz 101",
+      "artist": "jerem",
+      "url": "/songs/Jazz 101.mp3",
+      "id": "jTxYUER8"
+    },
+    {
+      "title": "Jungle",
+      "artist": "jerem",
+      "url": "/songs/Jungle.mp3",
+      "id": "jTxCVHQ8"
+    },
+    {
+      "title": "Stab at Dawn",
+      "artist": "jerem",
+      "url": "/songs/Stab at Dawn.mp3",
+      "id": "jTTYUHQ8"
     }
   ]
 }
